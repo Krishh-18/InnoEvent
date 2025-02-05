@@ -3,7 +3,7 @@
 ## Tech Stack
 
 ### Frontend
-- **Frameworks:** React.js (Vite), Next.js
+- **Frameworks:**  Next.js
 - **Styling:** Tailwind CSS
 
 ### Backend
