@@ -4,18 +4,14 @@ import { ShootingStars } from "@/components/ui/shooting-stars";
 import { StarsBackground } from "@/components/ui/stars-background";
 import FlipWordsDemo from "./words";
 import { GlobeDemo } from "./globef";
+import Navb from "./navb";
 
 
 export default function ShootingStarsAndStarsBackgroundDemo() {
     return (
              
       <div className="min-h-screen min-w-full rounded-md bg-black flex flex-col items-center justify-center relative w-full">
-      <nav className="flex justify-between m-5 p-3 text-white font-semibold">
-            <ul className="px-3 space-x-7 ">
-                <a href="/" className=" m-2 p-2 bg-gray-300 bg-opacity-15 rounded-xl">Explore Events 🡕</a>
-                <a href="" className="m-2 p-2 bg-gray-300 bg-opacity-15 rounded-xl">Sign In</a>
-            </ul>
-        </nav>
+        <Navb/>
         <br />
         <br />
         <br />
