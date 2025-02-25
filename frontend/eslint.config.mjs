@@ -8,13 +8,6 @@ const __dirname = dirname(__filename);
 
 
 
-
-
-
-
-
-
-
 const compat = new FlatCompat({
   baseDirectory: __dirname,
 });
@@ -23,5 +16,7 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
 ];
+
+
 
 export default eslintConfig;
