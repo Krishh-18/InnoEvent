@@ -11,8 +11,8 @@
 - **Database:** PostgreSQL
 
 ### Development Roles
-- **Frontend Lead:** Harshit
-- **Backend Lead:** Sarthak
+- **Frontend Lead:** Tanmay
+- **Backend Lead:** Krish
 
 ## Project Overview
 This project is aimed at building a scalable and robust platform using modern web technologies. The frontend and backend components are designed for seamless integration, delivering high performance and great user experiences.
