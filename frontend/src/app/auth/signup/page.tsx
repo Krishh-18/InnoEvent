@@ -4,4 +4,5 @@ export default function signupPage() {
         Signup page
         </div>
     )
+    
 }
